@@ -1,7 +1,7 @@
 {
-  "name": "Scrim-s04mf27",
+  "name": "react-note-app",
   "description": "https://v2.scrimba.com/learn-react-c0e/~051",
-  "homepage": "https://github.com/bijayabc/Notes-App.git",
+  "homepage": "https://github.com/bijayabc/MarkNote.git",
   "scripts": {
     "start": "vite",
     "dev": "vite",
