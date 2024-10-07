@@ -1,5 +1,6 @@
 {
   "name": "react-note-app",
+  "type": "module",
   "description": "A React application for note-taking with real-time sync and Markdown support.",
   "homepage": "https://bijayabc.github.io/MarkNote/",
   "scripts": {
